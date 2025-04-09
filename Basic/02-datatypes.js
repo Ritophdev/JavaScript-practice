@@ -25,3 +25,13 @@ console.log(bigInt)
 console.log(bigInt2)
 
 console.log(typeof unicId)
+
+function mensajeDesarrollador() {
+    const pensamiento = "Cada línea de código es un paso más hacia la solución. No se trata solo de escribir, sino de entender, aprender y mejorar constantemente. El camino del desarrollo es largo, pero cada error es una oportunidad para crecer.";
+    
+    console.log(pensamiento);
+  }
+  
+  // Llamada a la función
+  mensajeDesarrollador();
+  
